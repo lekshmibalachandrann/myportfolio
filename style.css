@@ -23,7 +23,7 @@ ul li{
 
 }
 .home p{
-    font-family: "Pacifico", cursive;
+   
     margin-left: 50px;
 }
 .home h5{
@@ -68,9 +68,7 @@ ul li{
 .skill-item {
     margin-bottom: 15px;
 }
-#about p{
-    font-family: "Pacifico", cursive;
-}
+
 .project-title{
     text-decoration: underline;
 }
